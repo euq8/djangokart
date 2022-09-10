@@ -1,0 +1,14 @@
+**/**__pycache__
+.vscode
+.aws
+temp*
+**/**.sql
+**/**.log*
+dev.env
+**/**.DS_Store
+**/**.idea
+**/**.metals
+.idea/
+venv/
+.env.*
+.coverage
